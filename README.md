@@ -1,1 +1,2 @@
 # XinboLI-Amazon
+I am a student at the School of Computer Science and Engineering, University of New South Wales. I am currently working on my final year project, which is a third-party shopping price comparison platform. The website mainly features cost-effective electronic products, household items and other Amazon products, helping users find suitable options. I will continue to update various product reviews and recommendations in the future.
